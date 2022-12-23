@@ -26,4 +26,4 @@ node.js 에는 fetch 가 없기 때문에 npm i node-fetch@2  2버전을 설치�
 
 이후 프로젝트 시작은 npm run vercel   (작은 서버를 만들었다고 생각)
 
-최종 업로드시 폴더와 같이 업러드 되는데 한번더 숨긴다(환경변수 사용) npm i -D dotenv
+최종 업로드시 폴더와 같이 업로드 되는데 한번더 숨긴다(환경변수 사용) npm i -D dotenv
