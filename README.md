@@ -3,6 +3,7 @@ JS 버전 영화 웹 강의
 parcel 번들러 이용
 vercel 로 배포
 
+https://movie-wep-jeonghan7411.vercel.app/#/
 
 
 API KEY 숨기기
